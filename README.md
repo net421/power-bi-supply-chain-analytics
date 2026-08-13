@@ -127,6 +127,19 @@ The validator checks row counts, null keys, date ordering, delivered ≤ ordered
 
 Power BI Desktop is required to create the final `.pbix` and render dashboard screenshots. This repository contains the reproducible source data, model specification, DAX, validation code, and dashboard design so the binary report can be assembled without hidden/manual logic.
 
+## 📊 Dashboard Screenshots
+
+### Executive Dashboard
+![KPI Cards](dashboards/screenshots/01_executive_kpi_cards.png)
+![OTIF Monthly Trend](dashboards/screenshots/02_otif_monthly_trend.png)
+![Top Suppliers by OTIF](dashboards/screenshots/03_top_suppliers_otif.png)
+
+### Operational Dashboard
+![OTIF Heatmap](dashboards/screenshots/04_heatmap_otif_category_warehouse.png)
+
+### Cost Analysis Dashboard
+![Cost per Kg by Mode](dashboards/screenshots/05_cost_per_kg_by_mode.png)
+![Freight Budget Waterfall](dashboards/screenshots/06_freight_budget_waterfall.png)
 ## License
 
 MIT License — see `LICENSE`.
