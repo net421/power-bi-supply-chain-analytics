@@ -1,0 +1,2 @@
+order_id,order_date,customer_id,product_id,supplier_id,warehouse_id,quantity_ordered,quantity_delivered,unit_cost,promised_date,delivery_date,quality_score,handling_cost
+SO000001,2024-04-07,C0071,P0470,S27,W05,20,20,137.84,2024-04-16,2024-04-16,0.915,13.50
